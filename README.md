@@ -124,7 +124,7 @@ Software in the Public Interest (SPI) is a nonprofit organization that handles n
 ## Activities
 
 | Name | Description | Link | 
-| ----------- | ----------- |
+| :---- | :----------- | :------------ |
 | Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | https://summerofcode.withgoogle.com/
 | Paragraph | Text |
 
