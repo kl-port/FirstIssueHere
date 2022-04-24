@@ -2,13 +2,22 @@
 A question for anyone who wants to get involved in an open source project is where do we start? This project attempts to help you find the right first issue to start with.
 
 - [Markdown Navigation](#markdown-navigation)
+    - [Activities](#installation)
     - [Organizations](#organizations)
-    - [Installation](#installation)
+
     - [Usage](#usage)
     - [What's New?](#whats-new)
     - [Question](#question)
     - [License](#license)
     - [Links](#links)
+
+
+## Activities
+
+| Name | Description | Link | 
+| :---- | :----------- | :------------ |
+| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | https://summerofcode.withgoogle.com/
+| Paragraph | Text |
 
 
 ## Organizations
@@ -121,12 +130,6 @@ Software in the Public Interest
 Software in the Public Interest (SPI) is a nonprofit organization that handles non-technical administrative tasks for select open source projects so their developers can focus on developing and distributing open hardware and software.
 
 
-## Activities
-
-| Name | Description | Link | 
-| :---- | :----------- | :------------ |
-| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | https://summerofcode.withgoogle.com/
-| Paragraph | Text |
 
 
 
