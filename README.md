@@ -4,24 +4,25 @@ A question for anyone who wants to get involved in an open source project is whe
 - [Markdown Navigation](#markdown-navigation)
     - [Activities](#activities)
     - [Organizations](#organizations)
-
-    - [Usage](#usage)
+    - Updated later ...
+<!--     - [Usage](#usage)
     - [What's New?](#whats-new)
     - [Question](#question)
     - [License](#license)
-    - [Links](#links)
+    - [Links](#links) -->
 
 
 ## Activities
 
-| Name | Description | Link | 
+| Name | Description | Language | Link |
 | :---- | :----------- | :------------ |
-| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | https://summerofcode.withgoogle.com/
-| Paragraph | Text |
+| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/
+| Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner
+| 
 
 
 ## Organizations
-Apache Software Foundation
+[Apache Software Foundation] (https://www.apache.org/foundation/)
 
 The Apache Software Foundation provides organizational, legal, and financial support for a broad range of open source software projects. The foundation provides an established framework for intellectual property and financial contributions that simultaneously limits contributors' potential legal exposure.
 
