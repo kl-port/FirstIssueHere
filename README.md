@@ -14,11 +14,11 @@ A question for anyone who wants to get involved in an open source project is whe
 
 ## Activities
 
-| Name | Description | Language | Link |
-| :---- | :----------- | :------------ |
-| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/
+| No. |Name | Description | Language | Link |
+| :-- |:--- | :---------- | : ------ |:---- |
+| 1 |Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/
 
-| Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner
+| 2 |Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner
 
 
 ## Organizations
