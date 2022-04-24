@@ -121,6 +121,12 @@ Software in the Public Interest
 Software in the Public Interest (SPI) is a nonprofit organization that handles non-technical administrative tasks for select open source projects so their developers can focus on developing and distributing open hardware and software.
 
 
+## Activities
+
+| Name | Description | Link | 
+| ----------- | ----------- |
+| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | https://summerofcode.withgoogle.com/
+| Paragraph | Text |
 
 
 
@@ -129,7 +135,6 @@ Software in the Public Interest (SPI) is a nonprofit organization that handles n
 
 
 
-References:
-https://opensource.com/resources/organizations
+- https://opensource.com/resources/organizations
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
