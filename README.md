@@ -1,8 +1,10 @@
 # FirstIssueHere
 A question for anyone who wants to get involved in an open source project is where do we start? This project attempts to help you find the right first issue to start with. There are already many open source projects, organizations and events that require people to contribute, but sometimes they need developers with relevant skills. Any contribution is suitable to start, including but not limited to: translating documentation, adding comments, fixing bugs in the code, adding new features to the project, participating in offline open source activities. The important thing is to start solving the issue first, you can touch a lot of different things along the way.
 
-- [Navigation]
+- Navigation
     - [Activities](#activities)
+    - [Explorations](#explorations)
+    - [Companies](#companies)
     - [Organizations](#organizations)
     - Updated later ...
 <!--     - [Usage](#usage)
@@ -11,6 +13,7 @@ A question for anyone who wants to get involved in an open source project is whe
     - [License](#license)
     - [Links](#links) -->
 
+##### *No ranking for the following contents
 
 ## Activities
 
@@ -19,8 +22,33 @@ A question for anyone who wants to get involved in an open source project is whe
 | 1 |Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/|
 | 2 | Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner|
 
+## Explorations
 
-## Organizations(Links at the end)
+| No. | Description | Link |
+| :-- | :---------- |:---- |
+|1|Search first issues| https://goodfirstissues.com/|
+|2|Search first issues| https://goodfirstissue.dev/|
+|3|Search first issues| https://up-for-grabs.net/#/
+|4|Search first issues| https://firstcontributions.github.io/|
+
+## Companies
+English
+| No. | Name | Link |
+| :-- | :------  |:---- |
+|1|Redhat|https://www.redhat.com/en| 
+|2|Google |https://opensource.google/|
+|3|Microsoft|https://opensource.microsoft.com/|
+
+
+中文
+| No. | Name | Link |
+| :-- | :------  |:---- |
+|1|开源软件|https://www.oschina.net/project|
+|2|gitee|https://gitee.com/explore?utm_source=oschina&utm_medium=link-index&utm_campaign=home|
+|3|infoQ|https://www.infoq.cn/|
+
+## Organizations
+###(Links at the end)
 1. Apache Software Foundation
 
 The Apache Software Foundation provides organizational, legal, and financial support for a broad range of open source software projects. The foundation provides an established framework for intellectual property and financial contributions that simultaneously limits contributors' potential legal exposure.
