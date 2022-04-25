@@ -34,7 +34,7 @@ A question for anyone who wants to get involved in an open-source project is whe
 ## Companies
 English
 | No. | Name | Link |
-| :-- | :------  |:---- |
+| :-- | :----|:---|
 |1|Redhat|https://www.redhat.com/en| 
 |2|Google |https://opensource.google/|
 |3|Microsoft|https://opensource.microsoft.com/|
@@ -42,7 +42,7 @@ English
 
 中文
 | No. | Name | Link |
-| :-- | :------  |:---- |
+| :-- | :----|:--|
 |1|开源软件|https://www.oschina.net/project|
 |2|gitee|https://gitee.com/explore?utm_source=oschina&utm_medium=link-index&utm_campaign=home|
 |3|infoQ|https://www.infoq.cn/|
