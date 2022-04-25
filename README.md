@@ -186,6 +186,7 @@ Software in the Public Interest (SPI) is a nonprofit organization that handles n
 26. https://www.softwarefreedom.org/
 27. https://www.spi-inc.org/
 
+### Welcome contributions, sharing information of helps wanted, you can start by contributing to this project!
 
 References:
 
