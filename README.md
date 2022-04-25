@@ -7,11 +7,7 @@ A question for anyone who wants to get involved in an open-source project is whe
     - [Companies](#companies)
     - [Organizations](#organizations)
     - Updated later ...
-<!--     - [Usage](#usage)
-    - [What's New?](#whats-new)
-    - [Question](#question)
-    - [License](#license)
-    - [Links](#links) -->
+
 
 ##### *No ranking for the following contents
 
