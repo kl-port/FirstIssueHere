@@ -24,7 +24,7 @@ A question for anyone who wants to get involved in an open-source project is whe
 | :-- | :---------- |:---- |
 |1|Search first issues| https://goodfirstissues.com/|
 |2|Search first issues| https://goodfirstissue.dev/|
-|3|Search first issues| https://up-for-grabs.net/#/
+|3|Search first issues, filter by tags| https://up-for-grabs.net/#/
 |4|Search first issues| https://firstcontributions.github.io/|
 
 ## Companies
