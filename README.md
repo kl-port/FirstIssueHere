@@ -48,7 +48,7 @@ English
 |3|infoQ|https://www.infoq.cn/|
 
 ## Organizations
-###(Links at the end)
+### Links at the end
 1. Apache Software Foundation
 
 The Apache Software Foundation provides organizational, legal, and financial support for a broad range of open source software projects. The foundation provides an established framework for intellectual property and financial contributions that simultaneously limits contributors' potential legal exposure.
