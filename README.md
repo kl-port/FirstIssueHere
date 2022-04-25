@@ -32,7 +32,9 @@ A question for anyone who wants to get involved in an open-source project is whe
 |4|Search first issues| https://firstcontributions.github.io/|
 
 ## Companies
+
 English
+
 | No. | Name | Link |
 | :-- | :--- |:---- |
 |1|Redhat|https://www.redhat.com/en| 
@@ -41,6 +43,7 @@ English
 
 
 中文
+
 | No. | Name | Link |
 | :-- | :--- | :--- |
 |1|开源软件|https://www.oschina.net/project|
