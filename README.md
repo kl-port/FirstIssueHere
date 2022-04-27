@@ -4,9 +4,10 @@ A question for anyone who wants to get involved in an open-source project is whe
 ## Navigation
    1. [Activities](#activities)
    2. [Explorations](#explorations)
-   3. [Companies](#companies)
-   4. [Organizations](#organizations)
-   5. More later ...
+   3. [Mentorships](#mentorships)
+   4. [Companies](#companies)
+   5. [Organizations](#organizations)
+   6. More later ...
 
 
 ##### *No ranking for the following contents
@@ -15,8 +16,7 @@ A question for anyone who wants to get involved in an open-source project is whe
 
 | No. |Name | Description | Language | Link |
 | :-- |:--- | :---------- | :------  |:---- |
-| 1 |Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/|
-| 2 | Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner|
+| 1 | Gitee Reward | Gitee Reward is a new strategy proposed by Gitee to improve the open source development life cycle. Supporters of open source projects can more easily fund their favorite projects, and contributors can be rewarded for their tireless open source contributions. | Chinese | https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner|
 
 ## Explorations
 
@@ -26,6 +26,19 @@ A question for anyone who wants to get involved in an open-source project is whe
 |2|Search first issues| https://goodfirstissue.dev/|
 |3|Search first issues, filter by tags| https://up-for-grabs.net/#/
 |4|Search first issues| https://firstcontributions.github.io/|
+
+
+# Mentorships
+
+| No. | Name | Description | Link |
+| :-- | :----|:---------- |:---- |
+|1| MLH Fellowship |A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.| https://www.alibabacloud.com/zh/campaign/summerofcode2020
+|2| Alibaba Summer of Code | Alibaba Summer of Code is a global campaign focusing on engaging students directly into open source software development. Under the guidance of the mentors from Alibaba, students can use the summer to participate in a series of open source projects with the core members of the communities and experience software development in the real world. | https://www.alibabacloud.com/zh/campaign/summerofcode2020 |
+|3| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. | English |https://summerofcode.withgoogle.com/|
+|4| OSPP|Open Source Promotion Plan is a summer program organized and long-term supported by Open Source Software Supply Chain Promotion Plan. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. |https://summer-ospp.ac.cn/#/org/projectlist?lang=chi|
+|5| The Linux Foundation| The Linux Foundation Mentorship connects mentees with mentors to increase diversity and inclusion and inject new talent into open source communities. Each open source project participating in the Mentorship program is responsible for developing the structure and guidelines for their own mentorship program, including identifying mentors and mentees, outlining tasks for mentees, and determining stipends and/or other incentives for participants.| https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+
 
 ## Companies
 
