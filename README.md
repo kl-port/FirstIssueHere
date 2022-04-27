@@ -30,6 +30,8 @@ A question for anyone who wants to get involved in an open-source project is whe
 
 # Mentorships
 
+* Please be aware of the eligibility to work in the country you reside in for the duration of the mentorship.
+
 | No. | Name | Description | Link |
 | :-- | :----|:---------- |:---- |
 |1| MLH Fellowship |A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.| https://www.alibabacloud.com/zh/campaign/summerofcode2020
