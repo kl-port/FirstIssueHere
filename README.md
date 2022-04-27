@@ -33,8 +33,8 @@ A question for anyone who wants to get involved in an open-source project is whe
 * Please be aware of the eligibility to work in the country you reside in for the duration of the mentorship.
 
 | No. | Name | Description | Link |
-| :-- | :-----------|:------------------------------------------------------------------------- |:---- |
-|1| MLH Fellowship |A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.| https://www.alibabacloud.com/zh/campaign/summerofcode2020
+| :-- | :-----------|:----------: |:---- |
+|1| MLH Fellowship |A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.| https://www.alibabacloud.com/zh/campaign/summerofcode2020 |
 |2| Alibaba Summer of Code | Alibaba Summer of Code is a global campaign focusing on engaging students directly into open source software development. Under the guidance of the mentors from Alibaba, students can use the summer to participate in a series of open source projects with the core members of the communities and experience software development in the real world. | https://www.alibabacloud.com/zh/campaign/summerofcode2020 |
 |3| Google Code of Summer | 746 open source organizations have mentored 18,000+ new GSoC contributors since 2005. Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development.  |https://summerofcode.withgoogle.com/|
 |4| OSPP|Open Source Promotion Plan is a summer program organized and long-term supported by Open Source Software Supply Chain Promotion Plan. It aims to encourage college students to actively participate in the development and maintenance of open source software and promote the vigorous development of excellent open source software community. |https://summer-ospp.ac.cn/#/org/projectlist?lang=chi|
